@@ -10,6 +10,14 @@ this is my changes to the first branch . I am making changes to this file on git
 I jst changed locally using vim
 
  Just changing here. new changes
+ 
+ 
+ 
+ 
+ ----- new changes from second person ---- 
+ 
+ 
+ 
 
 ---- first person changing 
 
