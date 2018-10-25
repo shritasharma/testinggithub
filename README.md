@@ -5,5 +5,22 @@ this is my changes to the first branch . I am making changes to this file on git
  I am someone from the other place making changes to this file..
  
  
- Just changing here.
 
+ Just changing here.
+I jst changed locally using vim
+
+ Just changing here. new changes
+ 
+ 
+ 
+ 
+ ----- new changes from second person ---- 
+ 
+ 
+ 
+
+---- first person changing 
+
+new changes ----
+
+New changes on my new branch 3
