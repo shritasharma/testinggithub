@@ -16,7 +16,7 @@ I jst changed locally using vim
  
  ----- new changes from second person ---- 
  
- 
+i need my new changes to be in from branch 2 
  
 
 ---- first person changing 
